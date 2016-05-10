@@ -1,0 +1,28 @@
+name: rotterdamlegal.nl
+favicon: null
+layout_spectrum: 0.795931285014376
+typography_spectrum: 0.7914807102642953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4841742410790175
+  lightness: 0.6473767061252147
+  saturation: 0.20321149285882711
+  rhythmicContrast: 0.897433505859226
+purpose: []
