@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rotterdamlegal.nl]]></title>
+        <description><![CDATA[rotterdamlegal.nl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 14:02:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sportrecht.</p>]]></description>
+            <link>undefinedsportrecht/index.html</link>
+            <guid isPermaLink="false">a955da44-a0c4-45ee-b2e1-7637250aac83</guid>
+            <pubDate>Tue, 10 May 2016 14:02:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
