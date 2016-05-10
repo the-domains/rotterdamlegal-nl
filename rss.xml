@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[rotterdamlegal.nl]]></title>
         <description><![CDATA[rotterdamlegal.nl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rotterdamlegal-nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 14:02:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 14:05:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rotterdamlegal-nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Big Data in een vrije en veilige samenleving</p>]]></description>
+            <link>https://thegrid.ai/rotterdamlegal-nl/big-data-in-een-vrije-en-veilige-samenleving/index.html</link>
+            <guid isPermaLink="false">1f7bc677-2a37-4bf3-95e4-779fe5340ea4</guid>
+            <pubDate>Tue, 10 May 2016 14:05:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sportrecht.</p>]]></description>
-            <link>undefinedsportrecht/index.html</link>
+            <link>https://thegrid.ai/rotterdamlegal-nl/sportrecht/index.html</link>
             <guid isPermaLink="false">a955da44-a0c4-45ee-b2e1-7637250aac83</guid>
             <pubDate>Tue, 10 May 2016 14:02:24 GMT</pubDate>
         </item>
